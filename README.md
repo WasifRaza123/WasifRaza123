@@ -1,4 +1,5 @@
 # 👋Hi, I'm Mohd
+An iOS developer with around 1.5 years of experience.
 
 ### Skills
 * 📝 Swift
