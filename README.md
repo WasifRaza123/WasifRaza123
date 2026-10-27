@@ -1,8 +1,10 @@
 # 👋Hi, I'm Mohd
+
+<!--
 An iOS developer with around 1.5 years of experience.
 
 ### Skills
-* 📝 Swift
+* 📝 Swift 
 * 📦 UIKit
 * 📲 Auto Layout
 * 🚆 MVVM, MVC
@@ -25,3 +27,4 @@ An iOS developer with around 1.5 years of experience.
 ## [Movie Database](https://github.com/WasifRaza123/MovieDatabase)
 <img width="200" alt="286351819-e1f18c10-a372-4165-b112-e7c4e53f591f" src="https://github.com/WasifRaza123/WasifRaza123/assets/67188463/8344b2bf-9c10-44b6-8edf-591f3eff2f37">
 <img width="200" alt="Screenshot 2023-12-01 at 6 26 57 PM" src="https://github.com/WasifRaza123/WasifRaza123/assets/67188463/c153a620-ffa4-4adc-ba5e-78d653ccd098">
+-->
